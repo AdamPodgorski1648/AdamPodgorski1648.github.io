@@ -1,7 +1,7 @@
 +++
 title = 'Visual_Basic'
 date = 2024-03-15T16:59:48+01:00
-draft = true
+draft = false
 +++
 
 [Visual Basic docs - get started, tutorials, reference.](https://learn.microsoft.com/en-us/dotnet/visual-basic/)

@@ -1,7 +1,7 @@
 +++
 title = 'Delphi_Object_Pascal'
 date = 2024-03-15T17:00:37+01:00
-draft = true
+draft = false
 +++
 
 [Delphi: Modern Object Pascal Technology - Embarcadero](https://www.embarcadero.com/products/delphi/features/delphi)

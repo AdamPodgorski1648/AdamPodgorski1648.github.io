@@ -1,7 +1,7 @@
 +++
 title = 'Java'
 date = 2024-03-15T16:58:25+01:00
-draft = true
+draft = false
 +++
 
 [Java | Oracle](https://www.java.com/)

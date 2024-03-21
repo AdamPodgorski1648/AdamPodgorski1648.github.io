@@ -1,7 +1,7 @@
 +++
 title = 'JavaScript'
 date = 2024-03-15T16:58:58+01:00
-draft = true
+draft = false
 +++
 
 [JavaScript | MDN - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/javascript)

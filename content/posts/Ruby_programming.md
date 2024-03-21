@@ -1,7 +1,7 @@
 +++
 title = 'Ruby_programming'
 date = 2024-03-15T17:03:10+01:00
-draft = true
+draft = false
 +++
 
 [Ruby Programming Language](https://www.ruby-lang.org/en/)

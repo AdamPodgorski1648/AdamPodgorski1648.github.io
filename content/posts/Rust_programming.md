@@ -1,7 +1,7 @@
 +++
 title = 'Rust_programming'
 date = 2024-03-15T17:02:28+01:00
-draft = true
+draft = false
 +++
 
 [Rust Programming Language](https://www.rust-lang.org/)

@@ -1,7 +1,7 @@
 +++
 title = 'COBOL'
 date = 2024-03-15T17:02:52+01:00
-draft = true
+draft = false
 +++
 
 [COBOL - Wikipedia](https://en.wikipedia.org/wiki/COBOL)

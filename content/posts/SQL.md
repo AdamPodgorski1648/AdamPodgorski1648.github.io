@@ -1,7 +1,7 @@
 +++
 title = 'SQL'
 date = 2024-03-15T16:59:14+01:00
-draft = true
+draft = false
 +++
 
 [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/)

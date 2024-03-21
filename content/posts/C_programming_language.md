@@ -1,7 +1,7 @@
 +++
 title = 'C_programming_language'
 date = 2024-03-15T16:57:56+01:00
-draft = true
+draft = false
 +++
 
 [C (programming language) - Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))

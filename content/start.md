@@ -1,7 +1,7 @@
 +++
 title = 'Start'
 date = 2024-03-15T16:57:17+01:00
-draft = true
+draft = true 
 +++
 [Python](posts/Python.md)
 [C_programming_language](posts/C_programming_language.md)
