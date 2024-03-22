@@ -1,5 +1,5 @@
 +++
-title = 'Rust_programming'
+title = 'Rust programming'
 date = 2024-03-15T17:02:28+01:00
 draft = false
 +++
@@ -28,9 +28,9 @@ The Rust language hopes to support many other users as well; those mentioned her
 [PDF The Rust Programming Language - Stanford University](https://www.scs.stanford.edu/~zyedidia/docs/rust/rust_book.pdf)
 Download the PDF version of the book that introduces Rust, a programming language that balances high-level ergonomics and low-level control. Learn how to use Rust for systems-level work, web development, and more with examples, quizzes, and interactive features.
 
-Rust_programming
+Rust programming
 ================
 
-# Rust_programming
+# Rust programming
 
-## Common searches for Rust_programming
+## Common searches for Rust programming

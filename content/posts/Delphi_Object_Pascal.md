@@ -1,5 +1,5 @@
 +++
-title = 'Delphi_Object_Pascal'
+title = 'Delphi Object Pascal'
 date = 2024-03-15T17:00:37+01:00
 draft = false
 +++
@@ -28,9 +28,9 @@ constructor TMyObject.Create; begin. inherited Create; // Delphi doc: Do not cre
 [Looking for a Complete Delphi (object pascal) syntax](https://stackoverflow.com/questions/171827/looking-for-a-complete-delphi-object-pascal-syntax)
 There is no complete, published syntax for Delphi. Bear in mind that .net and win32 delphi have different syntaxes. This project has hand-build Delphi parser in it. And lots of test cases of code that compiles but pushes the limits of the syntax. Delphi 7's grammar is in the back of the Object Pascal book.
 
-Delphi_Object_Pascal
+Delphi Object Pascal
 ====================
 
 # Delphi_object_pascal
 
-## Common searches for Delphi_Object_Pascal
+## Common searches for Delphi Object Pascal

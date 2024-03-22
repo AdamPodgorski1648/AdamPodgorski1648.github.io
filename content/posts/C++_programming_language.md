@@ -1,5 +1,5 @@
 +++
-title = 'C++_programming_language'
+title = 'C++ programming language'
 date = 2024-03-15T16:58:10+01:00
 draft = false
 +++
@@ -28,9 +28,9 @@ Program. C Program to Print an Integer (Entered by the User) C Program to Add Tw
 [Online C Compiler - Programiz](https://www.programiz.com/c-programming/online-compiler/)
 The user friendly C online compiler that allows you to Write C code and run it online. The C text editor also supports taking input from the user and standard libraries. It uses the GCC C compiler to compile code.
 
-C++_programming_language
+C++ programming language
 ========================
 
-# C++_programming_language
+# C++ programming language
 
-## Common searches for C++_programming_language
+## Common searches for C++ programming language

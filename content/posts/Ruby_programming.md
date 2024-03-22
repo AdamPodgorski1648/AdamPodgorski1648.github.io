@@ -1,5 +1,5 @@
 +++
-title = 'Ruby_programming'
+title = 'Ruby programming'
 date = 2024-03-15T17:03:10+01:00
 draft = false
 +++
@@ -28,9 +28,9 @@ The current stable version is 3.3.0. Please be sure to read Ruby's License. Ways
 [The Ruby Logo - Ruby Programming Language](https://www.ruby-lang.org/en/about/logo/)
 Mailing Lists: Talk about Ruby with programmers from all around the world. User Groups: Get in contact with Rubyists in your area. Blogs: Read about what's happening right now in the Ruby community. Ruby Core: Help polish the rough edges of the latest Ruby. Issue Tracking: Report or help solve issues in Ruby.
 
-Ruby_programming
+Ruby programming
 ================
 
-# Ruby_programming
+# Ruby programming
 
-## Common searches for Ruby_programming
+## Common searches for Ruby programming

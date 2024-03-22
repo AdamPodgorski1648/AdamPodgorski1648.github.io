@@ -1,5 +1,5 @@
 +++
-title = 'Visual_Basic'
+title = 'Visual Basic'
 date = 2024-03-15T16:59:48+01:00
 draft = false
 +++
@@ -28,9 +28,9 @@ Write, run and share VB.NET code online using OneCompiler's free and feature-ric
 [Getting started with VBA in Office | Microsoft Learn](https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
 Learn the basics of Visual Basic for Applications (VBA) programming in Office, a simple and powerful language that you can use to extend and customize Office applications. Find out when and why to use VBA, how to write code, and what tools and features to use.
 
-Visual_Basic
+Visual Basic
 ============
 
 # Visual_basic
 
-## Common searches for Visual_Basic
+## Common searches for Visual Basic

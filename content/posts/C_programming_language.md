@@ -1,5 +1,5 @@
 +++
-title = 'C_programming_language'
+title = 'C programming language'
 date = 2024-03-15T16:57:56+01:00
 draft = false
 +++
@@ -19,9 +19,9 @@ The C Programming Language (sometimes termed K&R, after its authors' initials) i
 [C Programming Language, 2nd Edition - amazon.com](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
 In 1988, The C Programming Language, 2nd Edition (affectionately referred to as K&R2) was first printed. Despite the passing of so many years, C's syntax and semantics have remained fairly stable. It is then fitting that K&R2 remains the de facto manual and reference for helping programmers get acquainted with the C programming language.
 
-C_programming_language
+C programming language
 ======================
 
-# C_programming_language
+# C programming language
 
-## Common searches for C_programming_language
+## Common searches for C programming language
