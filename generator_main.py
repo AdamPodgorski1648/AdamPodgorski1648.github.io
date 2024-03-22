@@ -68,6 +68,10 @@ for name in names:
 
     File_to_write = open("content/posts/" + name + ".md", 'a+')
 
+    File.create_md_file()
+    File_read = open(name+"_tmp.md", 'r')
+    File_to_write.write(File_read.read())
+
     for result in results_final:
         # File.new_inline_link(link=result[0]["href"], text=result[0]["title"])
         ref = "[" + result[0]["title"] + "](" + result[0]["href"] + ")\n"
@@ -80,9 +84,6 @@ for name in names:
 
         # zapisz
 
-    File.create_md_file()
-    File_read = open(name+"_tmp.md", 'r')
-    File_to_write.write(File_read.read())
 
     print(File)
     print("\n\n\n")

@@ -1,9 +1,3 @@
-+++
-title = 'Go_Lang'
-date = 2024-03-15T16:59:30+01:00
-draft = false
-+++
-
 [The Go Programming Language](https://go.dev/)
 Learn how to build simple, secure, and scalable systems with Go, an open-source language supported by Google. Explore use cases, tools, tutorials, and resources for cloud, web, command-line, and DevOps development.
 
